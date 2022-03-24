@@ -2,6 +2,8 @@
 
 Follow KC's write up of the assignment here: https://eecs.wsu.edu/~cs360/mountroot.html
 
+Please ensure your code can be compiled with an `mk` script. We haven't provided one for this lab so you will need to write it yourself.
+
 ## Advice for final project:
 - Find a solid partner. K.C has in the Project Specification page that partners are allows. Use GitHub to manage your shared codebase. 
 - You're going to be working with this codebase until the end of the semester. The most valuable thing you can do rn before the codebase gets too large is refactor KC's provided code into something that compiles without warnings. Our suggestion is to use header files and preprocessor statements (i.e #ifndef HEADER_H #define HEADER_H #endif).
